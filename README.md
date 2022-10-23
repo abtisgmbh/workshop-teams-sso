@@ -1,7 +1,4 @@
-# equeo - Teams App Workshop
+# workshop-teams-sso
 
-## Motivation
-
-## Description
-
+This repository contains sample code of our teams sso workshop.
 
